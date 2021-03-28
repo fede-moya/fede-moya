@@ -6,5 +6,5 @@
 - 💼 &nbsp; Working as Software Enginner at [WyeWorks](https://wyeworks.com/)
 - 📚 &nbsp; Currently Learning more about container orchestration using AWS ECS services
 - 🎓 &nbsp; B.S Computer Science, [Universidad Católica del Uruguay](https://www.ucu.edu.uy/)
-- 🛠 &nbsp; Building software using RoR, React, docker and AWS Services.
+- 🛠 &nbsp; Building software using RoR, React, docker and AWS Services
 - 🔗 &nbsp; Avaliable on [LinkedIn](https://www.linkedin.com/in/federico-moya-190266106/)
