@@ -1,3 +1,3 @@
 # Hi ! 👋
 
-I'm Fede, an Uruguayan 🇺🇾 software developer. 
+I'm Fede, an Uruguayan 🇺🇾  software developer. 
